@@ -1,6 +1,4 @@
 - Hi, I’m @shaunlowis
-- I’m interested in physics and financial modeling using python and fortran90.
-- I’m currently learning Fortran90 and more about the PALM model.
 - I’m looking to collaborate on any atmospheric physics modeling or programming.
 - How to reach me: email: shaunlowis@gmail.com
 
