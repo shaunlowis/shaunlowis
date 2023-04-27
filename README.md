@@ -1,5 +1,3 @@
-- Hi, I’m @shaunlowis
-- I’m looking to collaborate on any atmospheric physics modeling or programming.
 - How to reach me: email: shaunlowis@gmail.com
 - My profile picture is from the [The Drolatic Dreams of Pantagruel (1565)](https://publicdomainreview.org/collection/the-drolatic-dreams-of-pantagruel-1565), I just think the artstyle is cool.
 
